@@ -51,7 +51,7 @@ const AdminPage = () => {
             Admin-only API Route
           </p>
           <Button onClick={onApiRouteClick}>
-            Click to test
+            Test Facebook
           </Button>
         </div>
 
@@ -60,7 +60,7 @@ const AdminPage = () => {
             Admin-only Server Action
           </p>
           <Button onClick={onServerActionClick}>
-            Click to test
+            Test Instagram
           </Button>
         </div>
       </CardContent>

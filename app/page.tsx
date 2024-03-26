@@ -17,10 +17,10 @@ export default function Home() {
           "text-6xl font-semibold text-white drop-shadow-md",
           font.className,
         )}>
-          🔐 Auth
+          📸 Influencers
         </h1>
         <p className="text-white text-lg">
-          A simple authentication service
+          Host campaigns as influencers
         </p>
         <div>
           <LoginButton  asChild>
